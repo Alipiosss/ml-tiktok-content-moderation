@@ -59,6 +59,9 @@ The Random Forest model slightly outperformed XGBoost in detecting the "claim" c
 - Extend the model with text-based features (e.g., sentiment, source verification).
 - Conduct regular bias and fairness audits.
 
+## 🛡️ License
+
+This project is for educational purposes under the guidelines of the Google Advanced Data Analytics Certificate. No commercial use intended.
 
 ## 👩‍💻 Author
 
